@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+
+Hi humans!
+LJA here,my English is very bad!
